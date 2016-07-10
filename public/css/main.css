@@ -1,0 +1,62 @@
+.panel {
+    margin-top: 20px;
+}
+
+.panel-default>.panel-heading {
+    text-align: center;
+}
+
+.fa-btn{
+    margin-right: 0;
+}
+
+.fa-btn:before{
+    margin-right: 3px;
+}
+
+.navbar {
+    margin: 0;
+}
+
+.nav-dashboard{
+    position: fixed;
+    top: 50px;
+    bottom: 0;
+    background-color: #252525;
+    color: #f7f7f7;
+}
+
+.nav-dashboard ul{
+    margin: 80px auto;
+    padding: 0;
+}
+
+.nav-dashboard ul li{
+    list-style: none;
+    text-align: left;
+}
+
+.nav-dashboard ul li a{
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #f7f7f7;
+}
+
+.nav-dashboard ul li a:hover,
+.nav-dashboard ul li a:active,
+.active{
+    background-color: #ff5050;
+    color: #f7f7f7;
+}
+
+.nav-dashboard .fa{
+    margin-right: 10px;
+}
+
+.setting-block{
+    float: right;
+}
+
+
